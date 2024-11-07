@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 0081b947dd357474487ad082cdaecfa8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - phone: {instanceID: 0}
+  - instructionBox: {instanceID: 0}
+  - instructionBackground: {instanceID: 0}
+  - pumpBox: {instanceID: 0}
+  - goThereBox: {instanceID: 0}
+  - compressionRateText: {instanceID: 0}
+  - cprImage: {instanceID: 0}
+  - background1: {instanceID: 0}
+  - continueButton: {instanceID: 0}
+  - MobileText: {instanceID: 0}
+  - playerAudio: {instanceID: 0}
+  - stayingAlive: {fileID: 8300000, guid: fcd151826c49c8142b56ba94c9234c86, type: 3}
+  - cprBoard: {instanceID: 0}
+  - source1: {fileID: 8300000, guid: 7cf3431f4fb7e2e439ca4482ed766f18, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
